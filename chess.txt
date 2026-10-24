@@ -60,3 +60,4 @@ axb4
 a3
 bxa3
 Rc3
+Bc2
