@@ -82,3 +82,4 @@ Kd3
 Kd8
 Rc2
 Ke7
+Kc3
