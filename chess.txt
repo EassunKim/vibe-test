@@ -7,3 +7,4 @@ a6
 Ba4
 Nf6
 O-O
+Be7
