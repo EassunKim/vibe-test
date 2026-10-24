@@ -54,3 +54,4 @@ Ne3
 Bf8
 Qd2
 Qc5
+Qb4
