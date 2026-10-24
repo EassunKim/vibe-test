@@ -69,3 +69,4 @@ Bd8
 Bb3
 Bb6
 Nd2
+Bxe3
