@@ -106,3 +106,4 @@ Rb6
 Kc7
 Rxb5
 Bg4
+Bc4
