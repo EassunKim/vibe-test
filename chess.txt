@@ -64,3 +64,4 @@ Bc2
 Rxa3
 Rb1
 Be7
+Kf1
