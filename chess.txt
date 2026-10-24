@@ -21,3 +21,4 @@ c5
 d4
 Qc7
 Nbd2
+cxd4
