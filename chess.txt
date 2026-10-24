@@ -44,3 +44,4 @@ Bd3
 Nc5
 Bc2
 Qc7
+Bxc5
