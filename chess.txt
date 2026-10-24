@@ -4,3 +4,4 @@ Nf3
 Nc6
 Bb5
 a6
+Ba4
