@@ -76,3 +76,4 @@ Rc1
 Ra3
 Ke2
 Kf8
+Rc7
