@@ -55,3 +55,4 @@ Bf8
 Qd2
 Qc5
 Qb4
+Qxb4
