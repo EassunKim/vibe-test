@@ -63,3 +63,4 @@ Rc3
 Bc2
 Rxa3
 Rb1
+Be7
