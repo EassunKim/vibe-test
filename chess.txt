@@ -136,3 +136,4 @@ Re1
 e3
 Kf3
 Nf2
+Kxe3
