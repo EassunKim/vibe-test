@@ -42,3 +42,4 @@ Rxc8+
 Rxc8
 Bd3
 Nc5
+Bc2
