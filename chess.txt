@@ -46,3 +46,4 @@ Bc2
 Qc7
 Bxc5
 Qxc5
+Bd3
