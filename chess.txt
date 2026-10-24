@@ -80,3 +80,4 @@ Rc7
 Ke7
 Kd3
 Kd8
+Rc2
