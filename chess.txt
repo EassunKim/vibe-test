@@ -74,3 +74,4 @@ fxe3
 Ra8
 Rc1
 Ra3
+Ke2
