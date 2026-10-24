@@ -100,3 +100,4 @@ Kc3
 Bxh3
 Kd3
 h5
+Rc6
