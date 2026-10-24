@@ -90,3 +90,4 @@ Rc3
 Re2
 Rc2
 Rxe3
+Rc7
