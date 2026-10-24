@@ -95,3 +95,4 @@ Kd8
 Rc3
 Re2
 Rc2
+Rxg2
