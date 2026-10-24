@@ -59,3 +59,4 @@ Qxb4
 axb4
 a3
 bxa3
+Rc3
