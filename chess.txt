@@ -96,3 +96,4 @@ Rc3
 Re2
 Rc2
 Rxg2
+Kc3
