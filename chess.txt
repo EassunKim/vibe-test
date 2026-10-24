@@ -61,3 +61,4 @@ a3
 bxa3
 Rc3
 Bc2
+Rxa3
